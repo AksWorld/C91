@@ -1,0 +1,96 @@
+html{
+    align-items: center;
+    background-color: aqua;
+}
+
+h2{
+ font-weight: bold;
+  font-family: Arial;
+  
+}
+
+.player
+    {
+        margin-top: 20px;
+        margin-left: 20px;
+        text-align: left;
+        font-size:medium;
+
+    }
+
+#player1_name , #player2_name
+{
+	font-weight: bold;
+}
+
+ 
+#output
+    {
+        background-color: white; 
+        border-radius: 10px;
+        border-top: 10px solid greenyellow;
+        padding: 10px;
+        float: none;
+        text-align: left;
+        width:800px;
+    }
+
+
+.console1{
+    background-color: white;
+    border-style: ridge;
+    border-radius: 20px;
+    align-self: center;
+    border-width:10px;
+    border-color: black;
+    width:800px;
+}
+
+.console2{
+  background-color: greenyellow;
+  border-style: ridge;
+  border-radius: 20px;
+  border-width:2px;
+  border-color: black;
+  height:35px;
+  width:800px;
+}
+
+.Color_Back_Log{
+    background-color: greenyellow;
+    border-style: ridge;
+    border-radius: 20px;
+    align-items: center;
+    border-width:2px;
+    border-color: black;
+    width:800px;
+
+}
+#Button_Login{
+    background-color: black;
+    color: white;
+    width: 30%;
+}
+#Title{
+    align-self: center;
+}
+
+#Send{
+    background-color: black;
+    color: white;
+     width:30%;
+}
+#d_n2{
+   width: 800px; 
+}
+#d_n1{
+    width: 800px; 
+ }
+ h3{
+    width: 500px;
+ }
+ #number_1,#number_2{
+    height:25px;
+ }
+ 
+
